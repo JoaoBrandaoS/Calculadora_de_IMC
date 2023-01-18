@@ -1,0 +1,19 @@
+
+.test{
+
+    width: 400px;
+    height: 200px;
+    position: relative;
+    left: 400px;
+    top: 100px;
+}
+
+.sumir{
+    visibility: hidden;
+
+}
+.aparece{
+
+    visibility: visible;
+
+}
